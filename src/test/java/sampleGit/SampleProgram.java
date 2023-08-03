@@ -8,6 +8,7 @@ public class SampleProgram {
 		public void demo()
 		{
 		System.out.println("hi this is my first commit");
+		System.out.println("hello arushi");
 		}
 		
 		
