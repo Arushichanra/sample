@@ -9,6 +9,7 @@ public class SampleProgram {
 		{
 		System.out.println("hi this is my first commit");
 		System.out.println("hello arushi");
+		System.out.println("HEY WHATS UP");
 		}
 		
 		
